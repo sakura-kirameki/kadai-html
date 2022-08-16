@@ -19,6 +19,7 @@ header p {
 /* チャプター：メインとサイド */
 #wrapper{
   display: flex;
+  width: 1000px;
 }
 #main {
   background-color: #ccffcc;
